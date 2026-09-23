@@ -1,0 +1,18 @@
+{
+  "schema": "UBUILDOS_COMPLETION_RECEIPT_002_PUBLIC_RELEASE_MANIFEST_V1",
+  "release_id": "DAY-01/P01",
+  "receipt": "CR-002",
+  "product": "Follow-Up Prioritizer™",
+  "product_semver": "1.0.0",
+  "frozen_package": {
+    "path": "FOLLOW_UP_PRIORITIZER_v1.0.0_PRE_IQA.zip",
+    "sha256": "9077a29629218d6345303d2a79f7cc4f45a12e6cabce8bef0a0b91616c3712bf"
+  },
+  "fresh_iqa": "PASS",
+  "owner_accepted": true,
+  "frozen": true,
+  "publication_authorized": true,
+  "public_surface_readback": "PENDING",
+  "linkedin_readback": "PENDING",
+  "terminal_closeout": "PENDING"
+}
