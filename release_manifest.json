@@ -1,5 +1,5 @@
 {
-  "schema": "UBUILDOS_COMPLETION_RECEIPT_002_PUBLIC_RELEASE_MANIFEST_V2",
+  "schema": "UBUILDOS_COMPLETION_RECEIPT_002_PUBLIC_RELEASE_MANIFEST_V3",
   "release_id": "DAY-01/P01",
   "receipt": "CR-002",
   "product": "Follow-Up Prioritizer™",
@@ -17,6 +17,15 @@
   "owner_accepted": true,
   "frozen": true,
   "public_surface_readback": "PASS",
-  "linkedin_readback": "PENDING",
-  "terminal_closeout": "PENDING"
+  "linkedin": {
+    "url": "https://lnkd.in/p/eiPPbhUw",
+    "publication_state": "LIVE",
+    "readback_basis": "OWNER_ATTESTED_LIVE",
+    "independent_platform_fetch": "UNAVAILABLE_IN_CURRENT_ENVIRONMENT"
+  },
+  "pp_22": "COMPLETE",
+  "terminal_closeout": "TERMINAL_VERIFIED_DONE",
+  "t0": "2026-09-22T20:36:19-04:00",
+  "tend": "2026-09-22T23:28:26-04:00",
+  "elapsed_seconds": 10327
 }
